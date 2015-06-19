@@ -104,4 +104,8 @@ public class AdminProgram {
   }while(halkasir == false);
  }
  
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

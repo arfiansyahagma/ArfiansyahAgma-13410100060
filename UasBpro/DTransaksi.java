@@ -15,4 +15,8 @@ public class DTransaksi{
  public double hitungSubTotal(){
   return brg.getHargajual() * kuantiti;
  }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

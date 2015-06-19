@@ -33,4 +33,8 @@ public class barang
  }
  
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

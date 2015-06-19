@@ -194,4 +194,8 @@ public class DbBarang {
    System.out.println();
  }
    
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master
